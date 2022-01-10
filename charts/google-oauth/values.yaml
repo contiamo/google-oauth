@@ -1,0 +1,9 @@
+oathSecretName: google-oauth
+image: docker.io/colemickens/oauth2_proxy
+tag: latest
+ingress:
+  hosts:
+    - tracing.dev.contiamo.io
+    - alertmanager.dev.contiamo.io
+  clusterIssuer: letsencrypt-production-route53
+    
