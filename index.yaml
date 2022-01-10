@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  google-oauth:
+  - apiVersion: v1
+    appVersion: 0.0.5
+    created: "2022-01-10T16:19:08.486277604Z"
+    description: Google OAuth
+    digest: 529752e1d35c9c70d1a7e20300d6e222fe7aee30311e20b5ba333627f5de4373
+    name: google-oauth
+    urls:
+    - https://github.com/contiamo/google-oauth/releases/download/google-oauth-0.0.4/google-oauth-0.0.4.tgz
+    version: 0.0.4
+generated: "2022-01-10T16:19:08.486283404Z"
